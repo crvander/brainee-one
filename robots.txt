@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/brainee-one/sitemap.xml
+Sitemap: https://crvander.github.io/brainee-one/sitemap.xml
